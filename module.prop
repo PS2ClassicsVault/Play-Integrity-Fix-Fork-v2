@@ -1,7 +1,7 @@
 id=playintegrityfixforkv2
 name=Play Integrity Fix Fork v2
-version=v19.1
-versionCode=19100
-author=cyberdev
+version=v1.0
+versionCode=1
+author=Cyberdev
 description=Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-16
-updateJson=https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json
+updateJson=https://raw.githubusercontent.com/PS2ClassicsVault/Play-Integrity-Fix-Fork-v2/refs/heads/main/update.json
