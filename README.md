@@ -1,7 +1,7 @@
 # Play Integrity Fix by chiteroman
 Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15
 
-This module is a reupoad from a developer named: chiteroman
+This module is a reupload from a developer named: chiteroman
 
 This module has been reuploaded due to the original developers repo suddenly disappeared, this module will help to achieve Basic and device integrity checks in googles new latest integrity api check.
 
