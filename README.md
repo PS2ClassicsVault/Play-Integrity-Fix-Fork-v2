@@ -3,7 +3,7 @@ Universal modular fix for Play Integrity (and SafetyNet) on devices running Andr
 
 This module is a reupoad from a developer named: chiteroman
 
-This module has been reuploaded due to the oroginal developers repo suddenly disappeared, this module will help to achieve Basic and device integrity checks in googles new latest integrity api check.
+This module has been reuploaded due to the original developers repo suddenly disappeared, this module will help to achieve Basic and device integrity checks in googles new latest integrity api check.
 
 # Aditional information:
 This module cannot do it alone, it requires two different components to finction you will need the following modules to get full integrity.
