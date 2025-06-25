@@ -1,0 +1,7 @@
+id=playintegrityfixforkv2
+name=Play Integrity Fix Fork v2
+version=v19.1
+versionCode=19100
+author=cyberdev
+description=Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-16
+updateJson=https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json
